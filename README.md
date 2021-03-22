@@ -13,7 +13,7 @@
 </p>
 
 <h1 align="center">
-    ⌨️ Formulário ⌨️
+    ⌨️ Formulário com Stepper ⌨️
 </h1>
 
 <!-- 🚧🚧 Em construção 🚧🚧 -->
